@@ -4,7 +4,7 @@ function Image() {
     return (
         <div>
             <img 
-                src="https://infoportal.kiev.ua/wp-content/uploads/2013/02/%D0%9F%D0%B0%D0%BD%D0%BE%D1%80%D0%B0%D0%BC%D0%B0-%D0%9A%D0%B8%D0%B5%D0%B2%D0%BE-%D0%9F%D0%B5%D1%87%D0%B5%D1%80%D1%81%D1%8C%D0%BA%D0%BE%D1%97-%D0%BB%D0%B0%D0%B2%D1%80%D0%B8.jpg" 
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8O6NkY9K0z66pb0r63N9HopB26Nj_jVqit9SPBvghgNu6W0Cr-vFWVHex&s=10" 
                 alt="Панорама Києва" 
                 style={{ maxWidth: "100%", height: "auto", display: "block", margin: "20px 0", borderRadius: "6px" }}
             />
